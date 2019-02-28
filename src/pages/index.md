@@ -1,22 +1,18 @@
 ---
-templateKey: 'index-page'
-title: 'Great coffee with a conscience'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+templateKey: index-page
+title: R0BABTM
+image: >-
+  https://raw.githubusercontent.com/PrivacyNerdHQ/gatsby-starter-netlify-cms/master/static/img/favicon-16x16.png
+heading: dns3.p06.nsone.net
+subheading: middleman-starter-netlify-cms
+mainpitch:
+  title: April 4 - 12est to 9est
+  description: "How to Remove Yourself from 411 Locate\nDeleteMe’s 411 Locate Review\n411 Locate is a data broker that posts personal information online. To remove yourself from 411 Locate, you must send an opt-out request through their contact page. After that, it may take over 48 hours for your listing to be removed. \n\nSpeed: 3, Medium\tDifficulty: 1, Easiest\n\t\nHow to Remove Yourself from 411 Locate\n1. Search for yourself on https://www.411locate.com.\n\nremove yourself from 411 locate opt out removal\n2. Find your result and copy the URL of your listing.\n\nremove yourself from 411 locate opt out removal\n3. Go to their contact page, https://www.411locate.com/contact. Enter your email address (we recommend using a masked email from Blur), and request that your information is removed. It will help to include your city/state and the URL of your listing. Click “Send Message”.\n\nremove yourself from 411 locate opt out removal\n4. It may take over 48 hours for your listing to be removed."
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
-mainpitch:
-  title: Why Kaldi
-  description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,43 +64,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
 
